@@ -1,0 +1,14 @@
+C:\C#Videogame\bin\Debug\net9.0\C#Videogame.exe
+C:\C#Videogame\bin\Debug\net9.0\C#Videogame.deps.json
+C:\C#Videogame\bin\Debug\net9.0\C#Videogame.runtimeconfig.json
+C:\C#Videogame\bin\Debug\net9.0\C#Videogame.dll
+C:\C#Videogame\bin\Debug\net9.0\C#Videogame.pdb
+C:\C#Videogame\obj\Debug\net9.0\C#Videogame.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Videogame\obj\Debug\net9.0\C#Videogame.AssemblyInfoInputs.cache
+C:\C#Videogame\obj\Debug\net9.0\C#Videogame.AssemblyInfo.cs
+C:\C#Videogame\obj\Debug\net9.0\C#Videogame.csproj.CoreCompileInputs.cache
+C:\C#Videogame\obj\Debug\net9.0\C#Videogame.dll
+C:\C#Videogame\obj\Debug\net9.0\refint\C#Videogame.dll
+C:\C#Videogame\obj\Debug\net9.0\C#Videogame.pdb
+C:\C#Videogame\obj\Debug\net9.0\C#Videogame.genruntimeconfig.cache
+C:\C#Videogame\obj\Debug\net9.0\ref\C#Videogame.dll
